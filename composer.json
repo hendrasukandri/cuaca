@@ -1,0 +1,9 @@
+{
+    "name": "hendra/cuaca-widget",
+    "description": "jalan jalan tapi hujan",
+    "require": {
+        "tcdent/php-restclient": "^0.1.7",
+        "nesbot/carbon": "^2.30",
+        "yidas/phpspreadsheet-helper": "^1.3"
+    }
+}
